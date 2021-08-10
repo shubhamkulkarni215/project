@@ -1,3 +1,5 @@
+/*comment*/
+/* this is shubham's java prog*/
 import java.util.Scanner;
 
  public class calculator
